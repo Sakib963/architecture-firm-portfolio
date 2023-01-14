@@ -266,6 +266,9 @@ footer{
 footer p{
     padding-top: 40px;
     padding-bottom: 40px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #424242;
 }
 
 /* Responsive Section for Mobile Screen */
